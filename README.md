@@ -17,4 +17,4 @@
 
 ---
 
-✨ This structure helps organize design libraries, project files, references, and simulations in a clear hierarchy for easier navigation and collaboration.
+
